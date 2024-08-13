@@ -1,6 +1,6 @@
 
 # Title: YouTube Data Harvesting and Warehousing using SQL and Streamlit: 
-Project Overview
+Project Overview : 
   This project creates a Streamlit application that enables users to collect and analyze data from YouTube channels. By integrating with the YouTube API, the application fetches various details such as channel statistics, video metrics (likes, dislikes, comments), and stores this data in a MySQL  database. The application provides an interactive interface for users to query and visualize this data effectively.
 
 # Key Features
